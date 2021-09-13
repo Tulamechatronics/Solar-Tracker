@@ -1,0 +1,10 @@
+LDR Sensors:
+yellow A0
+Gray A1
+Orange A2
+Blue A3
+Red 5VDC,Black 0VDC
+Servo Motors:
+hori-10-
+verti-6-
+//Arduino UNO Board//
